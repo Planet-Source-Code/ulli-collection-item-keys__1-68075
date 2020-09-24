@@ -1,0 +1,1 @@
+Unfortunately Collections do not expose the Keys of Items. So I made a little function which returns an Item's Key by Index [Key = ItemKey(Index, Collection)].
